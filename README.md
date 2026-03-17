@@ -1,5 +1,8 @@
 # [BeeAPeer](https://beeapeer.com)
 
+>[!Warning]
+>This repository is no longer maintained!
+
 BeeAPeer is aiming to be a decentralised crypto exchange powered by the Hive Blockchain.
 
 ## Goals:
